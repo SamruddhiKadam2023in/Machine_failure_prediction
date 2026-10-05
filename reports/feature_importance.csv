@@ -1,0 +1,12 @@
+input_feature,macro_f1_drop_mean,macro_f1_drop_std,feature,native_importance
+Torque [Nm],0.37605,0.01238,Type_L,0.00676
+Rotational speed [rpm],0.34169,0.01787,Type_M,0.01509
+Tool wear [min],0.21691,0.02229,Type_H,0.10212
+Air temperature [K],0.18819,0.00852,Air temperature [K],0.03226
+Process temperature [K],0.15637,0.01024,Process temperature [K],0.01014
+Type,0.04487,0.01543,Rotational speed [rpm],0.09032
+,,,Torque [Nm],0.15652
+,,,Tool wear [min],0.12472
+,,,Temp difference [K],0.15087
+,,,Power [W],0.13568
+,,,Strain [min*Nm],0.17552

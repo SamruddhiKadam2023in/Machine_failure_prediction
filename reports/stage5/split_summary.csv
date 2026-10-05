@@ -1,0 +1,7 @@
+class,train_count,train_%,test_count,test_%
+No Failure,7715,96.92,1928,96.88
+TWF,34,0.43,9,0.45
+HDF,85,1.07,21,1.06
+PWF,64,0.8,16,0.8
+OSF,62,0.78,16,0.8
+Total,7960,100.0,1990,100.0

@@ -1,0 +1,6 @@
+class,precision,recall,f1,support,tier
+No Failure,0.9938,0.9953,0.9946,1928,High
+TWF,0.2,0.1111,0.1429,9,Low
+HDF,0.875,1.0,0.9333,21,High
+PWF,0.9286,0.8125,0.8667,16,High
+OSF,0.9375,0.9375,0.9375,16,High

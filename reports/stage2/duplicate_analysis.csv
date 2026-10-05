@@ -1,0 +1,6 @@
+check,count
+Exact duplicate rows (all columns),0
+Duplicate rows ignoring UDI and Product ID,0
+Duplicate feature vectors (Type + 5 sensors),0
+Duplicate UDI values,0
+Duplicate Product ID values,0

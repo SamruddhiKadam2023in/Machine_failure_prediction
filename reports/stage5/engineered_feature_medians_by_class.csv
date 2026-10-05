@@ -1,0 +1,6 @@
+Failure Type,Temp difference [K],Power [W],Strain [min*Nm]
+No Failure,9.9,6239.01,3933.6
+TWF,9.6,5948.42,7752.65
+HDF,8.3,7218.74,5045.6
+PWF,9.7,9037.44,1632.4
+OSF,10.15,8058.18,11575.15

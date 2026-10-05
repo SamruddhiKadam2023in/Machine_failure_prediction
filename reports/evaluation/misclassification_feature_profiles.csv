@@ -1,0 +1,22 @@
+pair,group,n,Air temperature [K],Process temperature [K],Rotational speed [rpm],Torque [Nm],Tool wear [min],Temp difference [K],Power [W],Strain [min*Nm]
+TWF -> No Failure,misclassified TWF -> No Failure,8,298.65,309.2,1492.0,37.5,207.5,10.7,5808.93,8007.55
+TWF -> No Failure,correct TWF,1,301.8,309.7,1442.0,45.3,233.0,7.9,6840.57,10554.9
+TWF -> No Failure,correct No Failure,1919,300.0,310.1,1507.0,40.0,106.0,9.8,6257.05,4022.4
+No Failure -> TWF,misclassified No Failure -> TWF,4,299.2,308.95,1588.0,35.25,217.0,9.4,5860.4,7450.5
+No Failure -> TWF,correct No Failure,1919,300.0,310.1,1507.0,40.0,106.0,9.8,6257.05,4022.4
+No Failure -> TWF,correct TWF,1,301.8,309.7,1442.0,45.3,233.0,7.9,6840.57,10554.9
+No Failure -> HDF,misclassified No Failure -> HDF,3,302.2,310.8,1350.0,48.3,54.0,8.6,6858.6,2581.2
+No Failure -> HDF,correct No Failure,1919,300.0,310.1,1507.0,40.0,106.0,9.8,6257.05,4022.4
+No Failure -> HDF,correct HDF,21,302.4,310.4,1336.0,54.6,110.0,8.3,7783.81,6402.0
+PWF -> No Failure,misclassified PWF -> No Failure,3,299.0,310.2,1399.0,61.5,92.0,11.1,9012.44,5750.0
+PWF -> No Failure,correct PWF,13,301.1,310.7,1337.0,66.7,100.0,9.6,9100.38,3608.8
+PWF -> No Failure,correct No Failure,1919,300.0,310.1,1507.0,40.0,106.0,9.8,6257.05,4022.4
+No Failure -> PWF,misclassified No Failure -> PWF,1,300.7,311.1,2437.0,13.8,163.0,10.4,3521.79,2249.4
+No Failure -> PWF,correct No Failure,1919,300.0,310.1,1507.0,40.0,106.0,9.8,6257.05,4022.4
+No Failure -> PWF,correct PWF,13,301.1,310.7,1337.0,66.7,100.0,9.6,9100.38,3608.8
+No Failure -> OSF,misclassified No Failure -> OSF,1,298.1,307.4,1363.0,60.1,187.0,9.3,8578.25,11238.7
+No Failure -> OSF,correct No Failure,1919,300.0,310.1,1507.0,40.0,106.0,9.8,6257.05,4022.4
+No Failure -> OSF,correct OSF,15,299.8,309.9,1368.0,57.1,207.0,10.8,8170.49,11534.2
+OSF -> No Failure,misclassified OSF -> No Failure,1,301.2,311.6,1461.0,52.9,208.0,10.4,8093.47,11003.2
+OSF -> No Failure,correct OSF,15,299.8,309.9,1368.0,57.1,207.0,10.8,8170.49,11534.2
+OSF -> No Failure,correct No Failure,1919,300.0,310.1,1507.0,40.0,106.0,9.8,6257.05,4022.4

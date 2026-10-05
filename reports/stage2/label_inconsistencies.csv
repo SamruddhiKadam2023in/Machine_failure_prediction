@@ -1,0 +1,4 @@
+case,count
+"Machine failure = 1, no mode flag set",9
+"Machine failure = 0, a mode flag set",18
+Rows with more than one mode flag,24

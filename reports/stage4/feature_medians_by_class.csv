@@ -1,0 +1,6 @@
+Failure Type,Air temperature [K],Process temperature [K],Rotational speed [rpm],Torque [Nm],Tool wear [min],Temp difference [K],Power [W],Tool wear × torque [min·Nm]
+No Failure,300.0,310.0,1507.0,39.8,107.0,9.8,6243.04,3951.2
+TWF,300.4,310.3,1524.0,37.5,215.0,9.6,5976.25,7786.8
+HDF,302.4,310.7,1349.0,51.75,99.0,8.3,7273.24,5313.45
+PWF,300.25,310.2,1403.5,62.4,87.5,9.7,9042.23,2197.5
+OSF,299.45,310.1,1362.5,56.75,207.0,10.2,8088.45,11545.4

@@ -1,0 +1,51 @@
+UDI,reason,Machine failure,TWF,HDF,PWF,OSF,RNF
+70,Multiple failure modes: no single class,1,0,0,1,1,0
+1222,Contradictory labels: RNF=1 but Machine failure=0,0,0,0,0,0,1
+1303,Contradictory labels: RNF=1 but Machine failure=0,0,0,0,0,0,1
+1325,Multiple failure modes: no single class,1,0,0,1,1,0
+1438,Failure type unknown: Machine failure=1 with no mode flag,1,0,0,0,0,0
+1497,Multiple failure modes: no single class,1,0,0,1,1,0
+1749,Contradictory labels: RNF=1 but Machine failure=0,0,0,0,0,0,1
+2073,Contradictory labels: RNF=1 but Machine failure=0,0,0,0,0,0,1
+2560,Contradictory labels: RNF=1 but Machine failure=0,0,0,0,0,0,1
+2750,Failure type unknown: Machine failure=1 with no mode flag,1,0,0,0,0,0
+3066,Contradictory labels: RNF=1 but Machine failure=0,0,0,0,0,0,1
+3453,Contradictory labels: RNF=1 but Machine failure=0,0,0,0,0,0,1
+3855,Multiple failure modes: no single class,1,0,0,1,1,0
+3944,Multiple failure modes: no single class,1,0,0,1,1,0
+4045,Failure type unknown: Machine failure=1 with no mode flag,1,0,0,0,0,0
+4255,Multiple failure modes: no single class,1,0,1,1,0,0
+4343,Multiple failure modes: no single class,1,0,1,1,0,0
+4371,Multiple failure modes: no single class,1,0,1,0,1,0
+4384,Multiple failure modes: no single class,1,0,1,0,1,0
+4418,Multiple failure modes: no single class,1,0,1,1,0,0
+4463,Multiple failure modes: no single class,1,0,1,0,1,0
+4643,Multiple failure modes: no single class,1,0,1,0,1,0
+4644,Multiple failure modes: no single class,1,0,1,0,1,0
+4685,Failure type unknown: Machine failure=1 with no mode flag,1,0,0,0,0,0
+4730,Multiple failure modes: no single class,1,0,1,0,1,0
+5395,Multiple failure modes: no single class,1,0,0,1,1,0
+5402,Multiple failure modes: no single class,1,1,0,0,1,0
+5472,Contradictory labels: RNF=1 but Machine failure=0,0,0,0,0,0,1
+5490,Contradictory labels: RNF=1 but Machine failure=0,0,0,0,0,0,1
+5496,Contradictory labels: RNF=1 but Machine failure=0,0,0,0,0,0,1
+5510,Contradictory labels: RNF=1 but Machine failure=0,0,0,0,0,0,1
+5537,Failure type unknown: Machine failure=1 with no mode flag,1,0,0,0,0,0
+5554,Contradictory labels: RNF=1 but Machine failure=0,0,0,0,0,0,1
+5640,Contradictory labels: RNF=1 but Machine failure=0,0,0,0,0,0,1
+5910,Multiple failure modes: no single class,1,1,0,1,1,0
+5942,Failure type unknown: Machine failure=1 with no mode flag,1,0,0,0,0,0
+6092,Contradictory labels: RNF=1 but Machine failure=0,0,0,0,0,0,1
+6249,Multiple failure modes: no single class,1,0,0,1,1,0
+6479,Failure type unknown: Machine failure=1 with no mode flag,1,0,0,0,0,0
+6914,Contradictory labels: RNF=1 but Machine failure=0,0,0,0,0,0,1
+6961,Contradictory labels: RNF=1 but Machine failure=0,0,0,0,0,0,1
+7084,Multiple failure modes: no single class,1,0,0,1,1,0
+7489,Contradictory labels: RNF=1 but Machine failure=0,0,0,0,0,0,1
+7869,Contradictory labels: RNF=1 but Machine failure=0,0,0,0,0,0,1
+8507,Failure type unknown: Machine failure=1 with no mode flag,1,0,0,0,0,0
+8847,Multiple failure modes: no single class,1,1,0,0,1,0
+8927,Multiple failure modes: no single class,1,0,0,1,1,0
+9016,Failure type unknown: Machine failure=1 with no mode flag,1,0,0,0,0,0
+9085,Multiple failure modes: no single class,1,0,0,1,1,0
+9975,Multiple failure modes: no single class,1,0,0,1,1,0

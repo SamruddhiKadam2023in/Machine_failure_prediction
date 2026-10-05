@@ -1,0 +1,10 @@
+feature,mutual_information
+Power [W],0.0652
+Torque [Nm],0.063
+Rotational speed [rpm],0.0516
+Strain [min*Nm],0.0475
+Tool wear [min],0.03
+Temp difference [K],0.0265
+Air temperature [K],0.0172
+Process temperature [K],0.0073
+Type,0.0031

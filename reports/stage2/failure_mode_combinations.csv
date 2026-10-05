@@ -1,0 +1,14 @@
+Machine failure,mode combination,count
+0,none,9643
+0,RNF,18
+1,HDF,106
+1,PWF,80
+1,OSF,78
+1,TWF,42
+1,PWF+OSF,11
+1,none,9
+1,HDF+OSF,6
+1,HDF+PWF,3
+1,TWF+OSF,2
+1,TWF+RNF,1
+1,TWF+PWF+OSF,1

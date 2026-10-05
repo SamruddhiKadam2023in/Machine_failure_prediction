@@ -1,0 +1,8 @@
+,CV Macro F1 (mean),CV Macro F1 (std),Test Accuracy,Test Precision (macro),Test Recall (macro),Test F1 (macro),Test F1 (weighted),Test ROC-AUC (macro OvR),Test ROC-AUC (weighted OvR)
+"Baseline (Dummy, most frequent)",0.1969,0.0,0.9688,0.1938,0.2,0.1968,0.9535,0.5,0.5
+Baseline (Logistic Regression),0.7084,0.0419,0.9824,0.7119,0.6134,0.6455,0.9796,0.989,0.9842
+Random Forest,0.7909,0.0129,0.9548,0.7587,0.9122,0.7773,0.9714,0.9908,0.9878
+XGBoost,0.7956,0.0294,0.9894,0.787,0.7713,0.775,0.9886,0.9873,0.9837
+CatBoost,0.7766,0.0304,0.9874,0.7321,0.7145,0.7195,0.9858,0.9878,0.9868
+Stacking,0.7881,0.0101,0.9467,0.7778,0.9669,0.8021,0.9678,0.9913,0.9908
+Best Model (XGBoost),0.7956,0.0294,0.9894,0.787,0.7713,0.775,0.9886,0.9873,0.9837

@@ -1,0 +1,13 @@
+CatBoost - test set (n=1990)
+
+              precision    recall  f1-score   support
+
+  No Failure     0.9917    0.9953    0.9935      1928
+         TWF     0.0000    0.0000    0.0000         9
+         HDF     0.8696    0.9524    0.9091        21
+         PWF     0.9167    0.6875    0.7857        16
+         OSF     0.8824    0.9375    0.9091        16
+
+    accuracy                         0.9874      1990
+   macro avg     0.7321    0.7145    0.7195      1990
+weighted avg     0.9845    0.9874    0.9858      1990

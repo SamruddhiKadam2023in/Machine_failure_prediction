@@ -1,0 +1,4 @@
+model,initial_cv_macro_f1,initial_cv_std,tuned_cv_macro_f1,tuned_cv_std,improvement
+Random Forest,0.7842,0.0094,0.7909,0.0129,0.0067
+XGBoost,0.762,0.0251,0.7956,0.0294,0.0336
+CatBoost,0.7551,0.0104,0.7766,0.0304,0.0215

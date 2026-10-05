@@ -1,0 +1,13 @@
+Stacking - test set (n=1990)
+
+              precision    recall  f1-score   support
+
+  No Failure     0.9995    0.9455    0.9717      1928
+         TWF     0.0734    0.8889    0.1356         9
+         HDF     0.8750    1.0000    0.9333        21
+         PWF     1.0000    1.0000    1.0000        16
+         OSF     0.9412    1.0000    0.9697        16
+
+    accuracy                         0.9467      1990
+   macro avg     0.7778    0.9669    0.8021      1990
+weighted avg     0.9935    0.9467    0.9678      1990

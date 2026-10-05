@@ -1,0 +1,7 @@
+class,evidence,value,unit,detail
+TWF,share of training rows with tool wear 198-246 min that are TWF,4.8,%,"{'No Failure': 614, 'OSF': 48, 'TWF': 34, 'HDF': 5, 'PWF': 2}"
+HDF,max temp difference / max rpm of HDF rows,8.6 K / 1379 rpm,,No Failure rows with temp diff <= 8.6 K and rpm < 1380: 0
+PWF,PWF power (low-group max / high-group min) vs No Failure power range,3477 W / 9020 W,,No Failure: 3515-8990 W
+OSF,Type L: min OSF strain vs max No Failure strain,11019,min*Nm,n OSF=59; No Failure max 10994
+OSF,Type M: min OSF strain vs max No Failure strain,12482,min*Nm,n OSF=3; No Failure max 11920
+OSF,Type H: min OSF strain vs max No Failure strain,no OSF rows,min*Nm,n OSF=0; No Failure max 11873

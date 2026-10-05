@@ -1,0 +1,13 @@
+Random Forest - test set (n=1990)
+
+              precision    recall  f1-score   support
+
+  No Failure     0.9984    0.9559    0.9767      1928
+         TWF     0.0795    0.7778    0.1443         9
+         HDF     0.8333    0.9524    0.8889        21
+         PWF     1.0000    0.9375    0.9677        16
+         OSF     0.8824    0.9375    0.9091        16
+
+    accuracy                         0.9548      1990
+   macro avg     0.7587    0.9122    0.7773      1990
+weighted avg     0.9916    0.9548    0.9714      1990

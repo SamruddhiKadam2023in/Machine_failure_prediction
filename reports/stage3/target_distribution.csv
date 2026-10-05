@@ -1,0 +1,6 @@
+Failure Type,count,percent,code
+No Failure,9643,96.91,0
+TWF,43,0.43,1
+HDF,106,1.07,2
+PWF,80,0.8,3
+OSF,78,0.78,4

@@ -1,0 +1,9 @@
+,Air temperature [K],Process temperature [K],Rotational speed [rpm],Torque [Nm],Tool wear [min],Temp difference [K],Power [W],Strain [min*Nm]
+Air temperature [K],1.0,0.876,0.031,-0.019,0.013,-0.701,-0.014,0.006
+Process temperature [K],0.876,1.0,0.027,-0.017,0.013,-0.27,-0.012,0.006
+Rotational speed [rpm],0.031,0.027,1.0,-0.876,0.006,-0.022,-0.809,-0.325
+Torque [Nm],-0.019,-0.017,-0.876,1.0,-0.018,0.012,0.979,0.361
+Tool wear [min],0.013,0.013,0.006,-0.018,1.0,-0.007,-0.019,0.898
+Temp difference [K],-0.701,-0.27,-0.022,0.012,-0.007,1.0,0.01,-0.003
+Power [W],-0.014,-0.012,-0.809,0.979,-0.019,0.01,1.0,0.352
+Strain [min*Nm],0.006,0.006,-0.325,0.361,0.898,-0.003,0.352,1.0

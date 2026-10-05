@@ -1,0 +1,14 @@
+Final model: XGBoost
+Selected by: highest mean 5-fold CV Macro F1 (training split)
+
+              precision    recall  f1-score   support
+
+  No Failure     0.9938    0.9953    0.9946      1928
+         TWF     0.2000    0.1111    0.1429         9
+         HDF     0.8750    1.0000    0.9333        21
+         PWF     0.9286    0.8125    0.8667        16
+         OSF     0.9375    0.9375    0.9375        16
+
+    accuracy                         0.9894      1990
+   macro avg     0.7870    0.7713    0.7750      1990
+weighted avg     0.9880    0.9894    0.9886      1990

@@ -1,0 +1,15 @@
+column,role,dtype,n_unique,n_missing,description
+UDI,Identifier,int64,10000,0,"Unique row identifier, 1..10000"
+Product ID,Identifier,str,10000,0,Product serial; first letter is the quality variant
+Type,Categorical,str,3,0,"Product quality variant: L (low), M (medium), H (high)"
+Air temperature [K],Numerical sensor,float64,93,0,Ambient air temperature in kelvin
+Process temperature [K],Numerical sensor,float64,82,0,Process temperature in kelvin
+Rotational speed [rpm],Numerical sensor,int64,941,0,Spindle rotational speed
+Torque [Nm],Numerical sensor,float64,577,0,Torque in newton-metres
+Tool wear [min],Numerical sensor,int64,246,0,Cumulative minutes of tool use
+Machine failure,Label (binary),int64,2,0,"1 if the machine failed, else 0"
+TWF,Label (failure mode),int64,2,0,Tool wear failure
+HDF,Label (failure mode),int64,2,0,Heat dissipation failure
+PWF,Label (failure mode),int64,2,0,Power failure
+OSF,Label (failure mode),int64,2,0,Overstrain failure
+RNF,Label (failure mode),int64,2,0,Random failure

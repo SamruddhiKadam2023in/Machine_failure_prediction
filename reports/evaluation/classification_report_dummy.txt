@@ -1,0 +1,13 @@
+Baseline (Dummy, most frequent) - test set (n=1990)
+
+              precision    recall  f1-score   support
+
+  No Failure     0.9688    1.0000    0.9842      1928
+         TWF     0.0000    0.0000    0.0000         9
+         HDF     0.0000    0.0000    0.0000        21
+         PWF     0.0000    0.0000    0.0000        16
+         OSF     0.0000    0.0000    0.0000        16
+
+    accuracy                         0.9688      1990
+   macro avg     0.1938    0.2000    0.1968      1990
+weighted avg     0.9387    0.9688    0.9535      1990

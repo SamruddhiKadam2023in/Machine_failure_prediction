@@ -1,0 +1,13 @@
+{
+  "selected_feature_set": "original + engineered",
+  "params": {
+    "add_engineered": true,
+    "drop_columns": []
+  },
+  "rule": "highest 5-fold CV Macro F1 averaged over Random Forest and XGBoost",
+  "mean_cv_macro_f1_by_set": {
+    "original": 0.6836,
+    "original + engineered": 0.791,
+    "engineered, raw temperatures dropped": 0.7892
+  }
+}

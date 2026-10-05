@@ -1,0 +1,6 @@
+,Air temperature [K],Process temperature [K],Rotational speed [rpm],Torque [Nm],Tool wear [min]
+Air temperature [K],1.0,0.876,0.025,-0.017,0.013
+Process temperature [K],0.876,1.0,0.021,-0.016,0.013
+Rotational speed [rpm],0.025,0.021,1.0,-0.876,0.003
+Torque [Nm],-0.017,-0.016,-0.876,1.0,-0.01
+Tool wear [min],0.013,0.013,0.003,-0.01,1.0

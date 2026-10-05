@@ -1,0 +1,8 @@
+actual,predicted,count,share_of_actual_class_%
+TWF,No Failure,8,88.9
+No Failure,TWF,4,0.2
+No Failure,HDF,3,0.2
+PWF,No Failure,3,18.8
+No Failure,PWF,1,0.1
+No Failure,OSF,1,0.1
+OSF,No Failure,1,6.2
