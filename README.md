@@ -82,19 +82,6 @@ Adding them raised 5-fold CV Macro F1 (mean of RF and XGBoost) from **0.684 to 0
 
 ---
 
-## 🔬 Methodology
-
-```
-raw CSV ─► label cleaning & target (Stage 3) ─► stratified 80/20 split (Stage 6)
-                                                   │
-          training split only ◄────────────────────┤
-          ├─ feature-set selection (5-fold CV)      │
-          ├─ tuning: RandomizedSearchCV / GridSearchCV, f1_macro, StratifiedKFold(5, shuffle, 42)
-          └─ model selection: highest mean CV Macro F1
-                                                   │
-          test split (read once) ◄─────────────────┘ final evaluation only
-```
-
 Feature engineering and preprocessing live inside each model's `Pipeline`, so they are refitted within every CV fold. `random_state = 42` everywhere.
 
 ---
